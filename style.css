@@ -1,21 +1,28 @@
 <style>
 body {
   max-width: 100px;
-  margin: auto;
+
 }
+
+
 body {
   background-color: lightgrey;
   margin: 2%;
+  margin-left: 20%;
+  margin-right: 20%;
 }
-
-div {
-  background-color: white;
-}
-
-
 
 h1 {
   color: navy;
   margin-left: 4%;
 }
+
+div {
+  background-color: white;
+  display: block
+}
+
+
+
+
 </style>
